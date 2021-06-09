@@ -1,5 +1,3 @@
-console.log('Client side JS file is loaded!');
-
 // fetch is a browser-based API
 // fetch('https://puzzle.mead.io/puzzle')
 // .then((response) => {
